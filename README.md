@@ -39,7 +39,7 @@
 
 ### ⚙️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,spring,mysql,mongodb,git,github,vscode,postman,figma,canva,fastapi,openai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,spring,mysql,mongodb,git,github,vscode,postman,figma,fastapi,openai&theme=dark" />
 </p>
 
 ---
